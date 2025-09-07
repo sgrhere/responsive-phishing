@@ -11,4 +11,4 @@ This is the phising site which tends to be the site of facebook and directs one 
 ## Purpose of the project
 It is build for an educational purpose. It is majorly build to aware my student's about the practical working and behind the scenes of phising site. Along that, it will be presented as a project in a cyber security session for the IT club students.
 
-## Live at : https://meta-facebook-claim-your-reward-login.onrender.com/
+## Live at : https://meta-claim-your-reward-facebook-login.onrender.com/
